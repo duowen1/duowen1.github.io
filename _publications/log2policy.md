@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/log2policy
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-04
-venue: 'ACSAC 2023'
+venue: 'ACSAC'
 slidesurl: 'https://www.acsac.org/2023/files/web/slides/xu-67-log2policy.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3627106.3627137'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
