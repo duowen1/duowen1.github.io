@@ -11,7 +11,7 @@ I'm a doctorial student from [IIE](http://www.iie.cas.cn/), [UCAS](https://www.u
 
 I am very fortunate to be advised by [Prof. Xiaoqi Jia](https://people.ucas.ac.cn/~xiaoqi) of Cyber Space Security Evaluation Lab from [Institue of Information Engineering](http://www.iie.cas.cn/), University of Chinese Academy of Sciences. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). And the Chinese Version is hear: [徐少文个人简历](../assets/CV_Chinese.pdf)
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). And the Chinese Version is hear: [Chinese CV](../assets/CV_Chinese.pdf)
 
 [Email](mailto:xushaowen@iie.ac.cn) / [Github](https://github.com/duowen1) / 
 
