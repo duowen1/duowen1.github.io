@@ -19,8 +19,9 @@ Work experience
 * Winter 2022: [XINGYUN LAB NSFOCUS]([星云实验室 - 绿盟科技-巨人背后的专家 (nsfocus.com.cn)](https://bestpractice.nsfocus.com.cn/html/4/90/93/))
   * Studying Container Vulnerability
   * Container Attack Detections
-Skills
-======
+
+# Skills
+
 * Linux Kernel
   * Linux Kernel Module
   * Compiling and Debugging
@@ -42,10 +43,4 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
