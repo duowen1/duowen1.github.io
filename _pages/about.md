@@ -18,6 +18,12 @@ You can find my CV here: [Shaowen's Curriculum Vitae](../assets/Curriculum_Vitae
 Publications
 ======
 
+- **ConMonitor: Lightweight Container Protection with Virtualization and VM Functions**
+
+<u>Shaowen Xu</u>, Qihang Zhou, Zhicong Zhang, Xiaoqi Jia, Donglin Liu, Heqing Huang, Haichao Du, Zhenyu Song
+
+In the 15th annual ACM Symposium on Cloud Computing (SoCC), 2024
+
 - **Log2Policy: An Approach to Generate Fine-Grained Access Control Rules for Microservices from Scratch**
 
 <u>Shaowen Xu</u>, Qihang Zhou, Heqing Huang, Xiaoqi Jia, Haichao Du, Yang Chen, Yamin Xie
@@ -26,9 +32,15 @@ In the 39th Annual Computer Security Applications Conference (ACSAC), 2023
 
 - **SEDSpec: Securing Emulated Devices by Enforcing Execution Specification**
 
-Yang Chen, Xiaoqi Jia, Shengzhi Zhang, <u>Shaowen Xu</u>, Haichao DU
+Yang Chen, Xiaoqi Jia, Shengzhi Zhang, <u>Shaowen Xu</u>, Haichao Du
 
 In the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024
+
+- **SummSlim: A Universal and Automated Approach for Debloating Container Images**
+
+Zhicong Zhang, Heqing Huang, <u>Shaowen Xu</u>, Qihang Zhou, Tianshu Zhang, Xiaoqi Jia, Weijuan Zhang
+
+In the 30th International Conference on Parallel and Distributed Systems £¨ICPADS 2024£©
 
 
 Open Sources Project 
