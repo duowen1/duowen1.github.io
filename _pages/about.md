@@ -40,7 +40,7 @@ In the 54th Annual IEEE/IFIP International Conference on Dependable Systems and 
 
 Zhicong Zhang, Heqing Huang, <u>Shaowen Xu</u>, Qihang Zhou, Tianshu Zhang, Xiaoqi Jia, Weijuan Zhang
 
-In the 30th International Conference on Parallel and Distributed Systems £¨ICPADS 2024£©
+In the 30th International Conference on Parallel and Distributed Systems ï¼ˆICPADS 2024ï¼‰
 
 
 Open Sources Project 
