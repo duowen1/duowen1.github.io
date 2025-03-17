@@ -42,6 +42,12 @@ Zhicong Zhang, Heqing Huang, <u>Shaowen Xu</u>, Qihang Zhou, Tianshu Zhang, Xiao
 
 In the 30th International Conference on Parallel and Distributed Systems （ICPADS 2024）
 
+- **RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives**
+
+Qihang Zhou, Wenzhuo Cao, Xiaoqi Jia, Peng Liu, Shengzhi Zhang,  Jiayun Chen, <u>Shaowen Xu</u>, Zhenyu Song
+
+In the 32nd Network and Distributed System Security Symposium (NDSS 2025)
+
 
 Open Sources Project 
 ======
